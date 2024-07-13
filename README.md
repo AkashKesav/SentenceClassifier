@@ -15,7 +15,7 @@ This project uses the BERT Base multilingual uncased model from Hugging Face's t
 # Model Architecture
 The model architecture primarily revolves around the BERT (Bidirectional Encoder Representations from Transformers) model, fine-tuned for the task of classification
 # Training
-To train the model, execute the cells in the notebook step-by-step. The training process includes loading the dataset, preprocessing, setting up the model, and running the training loop.
+To train the model, follow the steps in the notebook sequentially. This includes loading the dataset, preprocessing (which involves tokenization, encoding), setting up the model architecture, and executing the training loop.
 # Evaluation
 The evaluation metrics used in this project include accuracy and loss. After training, the model's performance is evaluated on a separate test set to ensure it generalizes well.
 # Contributions and Acknowledgements
