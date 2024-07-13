@@ -1,4 +1,4 @@
-# SentenceClassifier
+# Sentence Classifier
 This repository contains code for the "Contradictory, My Dear Watson" project, which leverages Hugging Face's transformers for natural language processing tasks. The primary objective is to classify statements into entailment, neutral, or contradictory
 # Table Of Contents
 * Dataset
